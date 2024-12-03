@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+## Run Project
+- npm install
+- npm run dev
